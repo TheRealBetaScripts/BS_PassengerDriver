@@ -21,7 +21,7 @@ A lightweight, customizable FiveM script designed for driving instructors and tr
 1. **Clone or download the script into your server’s resources:**
 
    ```
-   git clone https://github.com/your-repo/BS_PassengerDriver.git
+   git clone https://github.com/TheRealBetaScripts/BS_PassengerDriver.git
    ```
 
 2. **Add to `server.cfg`:**
