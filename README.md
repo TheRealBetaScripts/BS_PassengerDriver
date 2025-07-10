@@ -9,7 +9,6 @@ A lightweight, customizable FiveM script designed for driving instructors and tr
 * 🎮 Passenger Driving: Allow front-seat passengers to control gas, brake, and turning.
 * 🚓 Vehicle Whitelisting: Restrict the feature to certain vehicles.
 * 🔐 Optional Control Checks: Validate players by job, item possession, or statebags.
-* 🔔 ESX Notifications (customizable).
 * 🐞 Built-in Debug Logging (shallow or deep).
 * 🌍 Multi-language support (EN-GB, EN-US, FR).
 * ⚙️ Easy-to-customize server/client function tables.
@@ -42,12 +41,7 @@ A lightweight, customizable FiveM script designed for driving instructors and tr
 
 ## 🧩 Dependencies
 
-* [ESX Legacy](https://github.com/esx-framework/esx_core)
-* Optional:
-
-  * [Ox Inventory](https://overextended.github.io/docs/ox_inventory/)
-  * [Ox Statebag](https://docs.overextended.dev/)
-  * Other frameworks via simple function overrides
+No optionals no dependencies
 
 ---
 
